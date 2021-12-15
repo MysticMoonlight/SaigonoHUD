@@ -110,7 +110,7 @@
 		"wide"			"255"
 		"proportionaltoparent"	"1"
 
-		"image_name"		"main_main/main_menu_button_training"
+		"image_name"		"main_menu/main_menu_button_training"
 		"button_token"		"#MMenu_PlayList_Training_Button"
 		"button_command"	"play_training"
 		"desc_token"		"#MMenu_PlayList_Training_Desc"
