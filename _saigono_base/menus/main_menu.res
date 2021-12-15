@@ -184,7 +184,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"TFLogoImage"
-		"xpos"			"0"
+		"xpos"			"10"
 		"ypos"			"25"
 		"zpos"			"0"
 		"wide"			"180"
@@ -1123,7 +1123,7 @@
 		"default"		"1"
 		"paintbackground""0"
 		"sound_depressed"	""
-		"sound_released"	"vo/pyro_cheers01.wav"
+		"sound_released"	"vo/pyro_laughevil04.mp3"
 
 		"defaultFgColor_override" "255 255 255 255"
 		"armedFgColor_override" "63 6 6 255"
@@ -1986,46 +1986,6 @@
 		
 	}
 	
-	"ItsASecretToEverybody"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"ItsASecretToEverybody"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"77777"
-		"wide"			"f0"
-		"tall"			"480"
-		"PaintBackgroundType"	"0"
-		"paintbackground"		"1"
-		"border"				"NoBorder"
-		"bgcolor_override"		"0 0 0 255"
-		"visible"				"1"
-		
-		"pin_to_sibling" "SupportersAnchor"
-		"pin_corner_to_sibling" "PIN_TOPLEFT"
-		"pin_to_sibling_corner" "PIN_TOPLEFT"
-	}
-	"ItsASecretToEverybody2"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"ItsASecretToEverybody2"
-		"labeltext"		"If you're seeing this message, post an issue on GitHub. Press ~ and type quit to exit TF2. You should uninstall the HUD."
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"77778"
-		"textAlignment"	"center"
-		"wide"			"f0"
-		"tall"			"480"
-		"fgcolor_override"	"63 6 6 255"
-		"visible"				"1"
-		
-		"pin_to_sibling" "SupportersAnchor"
-		"pin_corner_to_sibling" "PIN_TOPLEFT"
-		"pin_to_sibling_corner" "PIN_TOPLEFT"
-	}
-	
-	
-	
 	"SteamWorkshopButton"
 	{
 		"ControlName"	"CExImageButton"
@@ -2043,7 +2003,7 @@
 		"labelText"			"WORKSHOP"
 		"font"			"HudFontSmallishBold"
 		"textAlignment"	"west"
-		"textinsetx"	"10"
+		"textinsetx"	"20"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"command"		"engine OpenSteamWorkshopDialog"
