@@ -6,7 +6,7 @@ Saigo no Chi(lit. Final Blood), or simply SaigonoHUD(最期のHUD) is a yet anot
 
 # What changes have been made?
 - Donor box has been removed, with black screen warnings
-- Every things related to Zeesastrous/ZeesHUD are completely removed
+- Most elements related to Zeesastrous/ZeesHUD are completely removed (There is still remaining Zees' number fonts, but will be removed in the future updates)
 - New logo and single background, as well as small changes to main menu
 - This project will remain non-profit, so any unrelated link will be removed except existing TF2 things
 
