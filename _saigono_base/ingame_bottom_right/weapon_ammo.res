@@ -95,8 +95,8 @@
 		"zpos"			"6"
 		"wide"			"200"
 		"tall"			"100"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"textAlignment"	"east"
 		"labelText"		"%Ammo%"
 
@@ -144,7 +144,7 @@
 
 		
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"textAlignment"	"west"
 		"labelText"		"%AmmoInReserve%"
 
@@ -189,7 +189,7 @@
 		"wide"			"150"
 		"tall"			"100"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"textAlignment"	"center"
 		"labelText"		"%Ammo%"
 

@@ -1107,7 +1107,7 @@
 		"ypos"			"r72"
 		"zpos"			"1"
 		"wide"			"135"
-		"tall"			"10"
+		"tall"			"15"
 		"autoResize"	"0"
 		"pinCorner"		"3"
 		"visible"		"1"

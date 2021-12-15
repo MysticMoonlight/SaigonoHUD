@@ -193,8 +193,8 @@
 		"tall"			"100"
 		"font"			"ZHO_56"
 		
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
 		"fgcolor"		"Health Text Shadow"
