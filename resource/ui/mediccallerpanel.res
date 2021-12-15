@@ -1,1 +1,1 @@
-#base "../../_zeeshud_base/ingame_popups/medic_radar.res"
+#base "../../_saigono_base/ingame_popups/medic_radar.res"

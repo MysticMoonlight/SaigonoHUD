@@ -1,13 +1,8 @@
 =========================================================
-=	 _____                               ___ 	=
-=	/ _  / ___  ___  ___   /\  /\/\ /\  /   \	=
-=	\// / / _ \/ _ \/ __| / /_/ / / \ \/ /\ /	=
-=	 / //\  __/  __/\__ \/ __  /\ \_/ / /_// 	=
-=	/____/\___|\___||___/\/ /_/  \___/___,'  	=
-=                                         		=
+SaigonoHUD v1.0.0 - Customization Guide!
 =========================================================
 
-HOW TO USE CUSTOMIZATIONS :
+Customization tutorial:
 
 - For files already available in the folder (i.e. menu_buttons.res, custom_colors.res, etc.) :
 	- Open them using Notepad++ or any other text editor.
@@ -21,6 +16,3 @@ HOW TO USE CUSTOMIZATIONS :
 		- *Expections include : "health-ammo"
 		- Worth noting that the "health-ammo_small" addon is not compatible with "health_" or "ammo_" displays.
 	- Some addons include a readme inside, make sure to read them!
-
-
-Feedback, bugs and suggestions : https://discord.gg/4pJeqcJYYs

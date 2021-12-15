@@ -13,8 +13,8 @@
 		"wide_minmode"				"168"
 		"tall"				"32"
 		"tall_minmode"				"32"
-		"MeterFG"			"ZeesWhite"
-		"MeterBG"			"ZeesRed"
+		"MeterFG"			"White"
+		"MeterBG"			"Red"
 	}
 	
 	"ItemEffectMeterBar"
@@ -66,9 +66,9 @@
 		"textAlignment"		"east"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"fgcolor"			"ZeesBlack"
-		"font"				"FUTURA_BOLD_12"
-		"font_minmode"				"FUTURA_BOLD_12"
+		"fgcolor"			"Black"
+		"font"				"SERIF_REG_12"
+		"font_minmode"				"SERIF_REG_12"
 	}
 	"ItemEffectAnchor"
 	{
@@ -106,8 +106,8 @@
 		"textAlignment"		"Center"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"MeterFG"			"ZeesWhite"
-		"MeterBG"			"ZeesRed"
+		"MeterFG"			"White"
+		"MeterBG"			"Red"
 	}
 	
 	"ItemEffectMeterBG"
@@ -129,6 +129,6 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"bgcolor_override"	"ZeesDarkGreen"
+		"bgcolor_override"	"DarkGreen"
 	}
 }

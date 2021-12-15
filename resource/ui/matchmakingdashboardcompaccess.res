@@ -1,1 +1,1 @@
-#base "../../_zeeshud_base/matchmaking/comp_access.res"
+#base "../../_saigono_base/matchmaking/comp_access.res"

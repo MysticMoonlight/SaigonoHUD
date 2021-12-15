@@ -10,8 +10,8 @@
 		"ypos_minmode"		"r120"
 		"wide"				"168"
 		"tall"				"32"
-		"MeterFG"			"ZeesWhite"
-		"MeterBG"			"ZeesRed"
+		"MeterFG"			"White"
+		"MeterBG"			"Red"
 	}
 	
 	"ItemEffectMeterBar"
@@ -62,8 +62,8 @@
 		"textAlignment"		"east"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"fgcolor"			"ZeesWhite"
-		"font"				"FUTURA_BOLD_12"
+		"fgcolor"			"White"
+		"font"				"SERIF_REG_12"
 	}
 	
 
@@ -84,8 +84,8 @@
 		"textAlignment"		"Center"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"MeterFG"			"ZeesWhite"
-		"MeterBG"			"ZeesRed"
+		"MeterFG"			"White"
+		"MeterBG"			"Red"
 	}
 
 	"ItemEffectMeter2"
@@ -124,7 +124,7 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"bgcolor_override"	"ZeesDarkGreen"
+		"bgcolor_override"	"DarkGreen"
 	}
 	"ItemEffectMeterBG3"
 	{
@@ -139,7 +139,7 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"bgcolor_override"	"ZeesDarkBlue"
+		"bgcolor_override"	"DarkBlue"
 		
 		"pin_to_sibling" "ItemEffectMeterBG2"
 		"pin_corner_to_sibling" "PIN_TOPLEFT"

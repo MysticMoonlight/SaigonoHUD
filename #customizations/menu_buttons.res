@@ -14,7 +14,7 @@
 		
 		"wide"			"100"										// if the box is too big or too small for the text, feel free to tweak this value
 		"xpos"			"0"											// if you want the button centered, tweak this as well
-		"font"			"FUTURA_BOLD_16"							// recommended "FUTURA_BOLD_14" or "FUTURA_BOLD_16"
+		"font"			"SERIF_REG_16"							// recommended "SERIF_REG_14" or "SERIF_REG_16"
 		
 		
 	}
@@ -29,7 +29,7 @@
 
 		"wide"			"100"
 		"xpos"			"0"
-		"font"			"FUTURA_BOLD_16"
+		"font"			"SERIF_REG_16"
 		
 		
 	}
@@ -43,7 +43,7 @@
 
 		"wide"			"100"
 		"xpos"			"0"
-		"font"			"FUTURA_BOLD_16"
+		"font"			"SERIF_REG_16"
 		
 		
 	}
@@ -57,7 +57,7 @@
 
 		"wide"			"100"
 		"xpos"			"0"
-		"font"			"FUTURA_BOLD_16"
+		"font"			"SERIF_REG_16"
 		
 		
 	}
@@ -72,7 +72,7 @@
 
 		"wide"			"100"
 		"xpos"			"0"
-		"font"			"FUTURA_BOLD_16"
+		"font"			"SERIF_REG_16"
 		
 		
 	}
@@ -86,7 +86,7 @@
 
 		"wide"			"100"
 		"xpos"			"0"
-		"font"			"FUTURA_BOLD_16"
+		"font"			"SERIF_REG_16"
 		
 		
 	}

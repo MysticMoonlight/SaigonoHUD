@@ -1,1 +1,1 @@
-#base "..\..\_zeeshud_base\menus\loadout.res"
+#base "..\..\_saigono_base\menus\loadout.res"

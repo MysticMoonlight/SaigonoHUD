@@ -1,1 +1,1 @@
-#base "../../_zeeshud_base/ingame_popups/motd.res"
+#base "../../_saigono_base/ingame_popups/motd.res"

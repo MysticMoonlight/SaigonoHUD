@@ -1,1 +1,1 @@
-#base "../../_zeeshud_base/menus/store_dialog_stamp.res"
+#base "../../_saigono_base/menus/store_dialog_stamp.res"

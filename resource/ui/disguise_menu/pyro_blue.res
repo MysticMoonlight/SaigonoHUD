@@ -4,19 +4,19 @@
 {
 	"ItemNameLabel"
 	{
-		"fgcolor"			"ZeesBlue"
+		"fgcolor"			"Blue"
 		"labelText"			"#TF_Class_Name_Pyro"
 	}
 
 	"NewNumberLabel"
 	{
-		"fgcolor"			"ZeesBlue"
+		"fgcolor"			"Blue"
 		"labelText"			"3"
 	}
 
 	"NumberLabel"
 	{
-		"fgcolor"			"ZeesBlue"
+		"fgcolor"			"Blue"
 		"labelText"			"3"
 	}
 }

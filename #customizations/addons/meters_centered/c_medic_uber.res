@@ -37,7 +37,7 @@
 		"labelText"			"#TF_UberchargeMinHUD"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"fgcolor"			"ZeesWhite"
+		"fgcolor"			"White"
 	}
 
 	"ChargeLabelShadow"
@@ -58,7 +58,7 @@
 		"textAlignment"		"center"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"font"				"FUTURA_BOLD_56"
+		"font"				"SERIF_REG_56"
 		"fgcolor"			"TransparentBlack"
 	}
 
@@ -253,7 +253,7 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"bgcolor_override"	"ZeesDarkerRed"
+		"bgcolor_override"	"DarkerRed"
 	}
 	"ChargeBG2"
 	{
@@ -268,7 +268,7 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"bgcolor_override"	"ZeesDarkRed"
+		"bgcolor_override"	"DarkRed"
 	}
 	"ChargeBG3"
 	{
@@ -283,7 +283,7 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"bgcolor_override"	"ZeesDarkYellow"
+		"bgcolor_override"	"DarkYellow"
 	}
 	"ChargeBG4"
 	{
@@ -298,6 +298,6 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"bgcolor_override"	"ZeesDarkGreen"
+		"bgcolor_override"	"DarkGreen"
 	}
 }

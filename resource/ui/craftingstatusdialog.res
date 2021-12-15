@@ -1,1 +1,1 @@
-#base "..\..\_zeeshud_base\menus\crafting_dialog.res"
+#base "..\..\_saigono_base\menus\crafting_dialog.res"

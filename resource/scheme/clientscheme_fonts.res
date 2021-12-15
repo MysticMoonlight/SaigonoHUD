@@ -4,59 +4,59 @@ Scheme
 	{
 		// CUSTOM
 		
-		// CIKANDEI
-		"CIKANDEI_56"
+		// Noto Serif Bold
+		"SERIFBOLD_56"
 		{
 			"1"
 			{
-				"name"			"CIKANDEI"
+				"name"			"Noto Serif Bold"
 				"tall" 		 	"56"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"CIKANDEI_48"
+		"SERIFBOLD_48"
 		{
 			"1"
 			{
-				"name"			"CIKANDEI"
+				"name"			"Noto Serif Bold"
 				"tall" 		 	"48"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"CIKANDEI_36"
+		"SERIFBOLD_36"
 		{
 			"1"
 			{
-				"name"			"CIKANDEI"
+				"name"			"Noto Serif Bold"
 				"tall" 		 	"36"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"CIKANDEI_32"
+		"SERIFBOLD_32"
 		{
 			"1"
 			{
-				"name"			"CIKANDEI"
+				"name"			"Noto Serif Bold"
 				"tall" 		 	"32"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"CIKANDEI_24"
+		"SERIFBOLD_24"
 		{
 			"1"
 			{
-				"name"			"CIKANDEI"
+				"name"			"Noto Serif Bold"
 				"tall" 		 	"24"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
 		
-		// ZEESHUD NUMBERS
+		// ZeesHUD Numbers (I could not remove this due to requirement, will be removed in the future updates if possible)
 		"ZH_56"
 		{
 			"1"
@@ -408,111 +408,111 @@ Scheme
 		
 		
 		// FUTURA_BOLD
-		"FUTURA_BOLD_56"
+		"SERIF_REG_56"
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"56"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"FUTURA_BOLD_48"
+		"SERIF_REG_48"
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"48"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"FUTURA_BOLD_40"
+		"SERIF_REG_40"
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"40"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"FUTURA_BOLD_36"
+		"SERIF_REG_36"
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"36"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"FUTURA_BOLD_32"
+		"SERIF_REG_32"
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"32"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"FUTURA_BOLD_24"
+		"SERIF_REG_24"
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"24"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"FUTURA_BOLD_16"
+		"SERIF_REG_16"
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"16"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"FUTURA_BOLD_14"
+		"SERIF_REG_14"
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"14"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"FUTURA_BOLD_12"
+		"SERIF_REG_12"
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"12"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"FUTURA_BOLD_10"
+		"SERIF_REG_10"
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"10"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"FUTURA_BOLD_8"
+		"SERIF_REG_8"
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"8"
 				"additive"		"0"
 				"antialias"		"1"
@@ -524,7 +524,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"56"
 				"additive"		"0"
 				"antialias"		"1"
@@ -534,7 +534,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"40"
 				"additive"		"0"
 				"antialias"		"1"
@@ -544,7 +544,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"32"
 				"additive"		"0"
 				"antialias"		"1"
@@ -554,7 +554,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"28"
 				"additive"		"0"
 				"antialias"		"1"
@@ -564,7 +564,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"24"
 				"additive"		"0"
 				"antialias"		"1"
@@ -574,7 +574,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"24"
 				"additive"	 	"0"
 				"antialias"	 	"1"
@@ -585,7 +585,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"20"
 				"additive"		"0"
 				"antialias"		"1"
@@ -595,7 +595,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"18"
 				"additive"		"0"
 				"antialias"		"1"
@@ -605,7 +605,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"16"
 				"additive"		"0"
 				"antialias"		"1"
@@ -615,7 +615,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"14"
 				"additive"		"0"
 				"antialias"		"1"
@@ -625,7 +625,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"12"
 				"additive"		"0"
 				"antialias"		"1"
@@ -635,7 +635,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"10"
 				"additive"		"0"
 				"antialias"		"1"
@@ -648,14 +648,14 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"10"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 			"2"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"12"
 				"range"			"0x0000 0x00FF"
 				"weight"		"800"
@@ -665,7 +665,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"10"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -676,7 +676,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"12"
 				"weight"		"500"
 				"underline"		"1"
@@ -684,7 +684,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"11"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
@@ -694,7 +694,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"12"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -702,7 +702,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"13"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -710,7 +710,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"14"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -719,7 +719,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"20"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -728,7 +728,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"22"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -737,7 +737,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"0"
@@ -747,7 +747,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"12"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -755,7 +755,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"12"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -763,7 +763,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"12"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -772,7 +772,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"14"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -781,7 +781,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"16"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
@@ -793,7 +793,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"18"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -801,7 +801,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"21"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -809,7 +809,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"22"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -818,7 +818,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"28"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -827,7 +827,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"30"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -836,14 +836,14 @@ Scheme
 			}
 			"6"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"20"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
 			}
 			"7"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"20"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
@@ -854,7 +854,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"name"			"Helvetica" [$OSX]
 				"tall"			"18"
 				"weight"		"900"
@@ -867,7 +867,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"6"
 				"weight"		"500"
 				"additive"		"0"
@@ -879,35 +879,35 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"12"
 				"weight"		"700"
 				"yres"			"480 599"
 			}
 			"2"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"13"
 				"weight"		"700"
 				"yres"			"600 767"
 			}
 			"3"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"14"
 				"weight"		"700"
 				"yres"			"768 1023"
 			}
 			"4"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"20"
 				"weight"		"700"
 				"yres"			"1024 1199"
 			}
 			"5"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"24"
 				"weight"		"700"
 				"yres"			"1200 10000"
@@ -918,7 +918,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"24"
 				"weight"		"500"
 				"additive"		"0"
@@ -927,7 +927,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"32"
 				"weight"		"500"
 				"additive"		"0"
@@ -936,7 +936,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"44"
 				"weight"		"500"
 				"additive"		"0"
@@ -945,7 +945,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"48"
 				"weight"		"500"
 				"additive"		"0"
@@ -954,7 +954,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"52"
 				"weight"		"500"
 				"additive"		"0"
@@ -966,7 +966,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"44"
 				"weight"		"500"
 				"additive"		"0"
@@ -977,7 +977,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"35"
 				"weight"		"500"
 				"additive"		"0"
@@ -988,7 +988,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"36"
 				"weight"		"500"
 				"additive"		"0"
@@ -999,7 +999,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"30"
 				"weight"		"500"
 				"additive"		"0"
@@ -1010,7 +1010,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"30"
 				"weight"		"500"
 				"additive"		"0"
@@ -1021,7 +1021,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"24"
 				"weight"		"500"
 				"additive"		"0"
@@ -1032,7 +1032,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"20"
 				"weight"		"500"
 				"additive"		"0"
@@ -1043,7 +1043,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"24"
 				"weight"		"500"
 				"additive"		"0"
@@ -1054,7 +1054,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -1065,7 +1065,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -1076,7 +1076,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -1087,7 +1087,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
@@ -1098,7 +1098,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"16"
 				"weight"		"500"
 				"additive"		"0"
@@ -1109,7 +1109,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
@@ -1120,7 +1120,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
@@ -1132,7 +1132,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -1143,7 +1143,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -1155,7 +1155,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -1167,7 +1167,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"6"
 				"weight"		"500"
 				"additive"		"0"
@@ -1179,7 +1179,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"10"
 				"additive"		"0"
 				"antialias"		"1"
@@ -1190,7 +1190,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"16"
 				//"weight"		"500"
 				"additive"		"0"
@@ -1201,7 +1201,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"10"
 				"weight"		"0"
 				"additive"		"0"
@@ -1212,7 +1212,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"10"
 				"weight"		"0"
 				"additive"		"0"
@@ -1223,7 +1223,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"6"
 				"weight"		"0"
 				"additive"		"0"
@@ -1234,7 +1234,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"12"
 				"weight"		"400"
 				"additive"		"0"
@@ -1246,7 +1246,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -1318,7 +1318,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -1330,7 +1330,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"16"
 				"weight"		"500"
 				"additive"		"0"
@@ -1388,7 +1388,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"15"
 				"weight"		"700"
 				"antialias" 	"1"
@@ -1398,7 +1398,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"15"
 				"weight"		"700"
 				"antialias" 	"1"
@@ -1408,7 +1408,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"18"
 				"weight"		"900"
 				"antialias" 	"1"
@@ -1417,7 +1417,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"21"
 				"weight"		"900"
 				"antialias" 	"1"
@@ -1426,7 +1426,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"24"
 				"weight"		"1000"
 				"antialias" 	"1"
@@ -1508,7 +1508,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"24"
 				"antialias" 	"1"
 				"weight"		"500"
@@ -1519,7 +1519,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"24"
 				"antialias" 	"1"
 				"weight"		"500"
@@ -1531,7 +1531,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"24"
 				"antialias" 	"1"
 				"weight"		"900"
@@ -1542,7 +1542,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"24"
 				"antialias" 	"1"
 				"weight"		"900"
@@ -1554,7 +1554,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"16"
 				"antialias" 	"1"
 				"weight"		"900"
@@ -1589,7 +1589,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"24"
 				"antialias" 	"1"
 				"weight"		"500"
@@ -1599,7 +1599,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"12"
 				"antialias" 	"1"
 				"weight"		"500"
@@ -1609,7 +1609,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"12"
 				"antialias" 	"1"
 				"weight"		"500"
@@ -1632,7 +1632,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"28"
 				"antialias"		"1"
 				"custom"		"1" [$OSX]
@@ -1643,7 +1643,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"40"
 				"antialias"		"1"
 				"custom"		"1" [$OSX]
@@ -1654,7 +1654,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"24"
 				"antialias" 	"1"
 				"custom"		"1" [$OSX]
@@ -1665,7 +1665,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"14" [!$OSX]
 				"tall"			"15" [$OSX]
 				"antialias"		"1"
@@ -1678,7 +1678,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"6"
 				"weight"		"400"
 				"additive"		"0"
@@ -1689,7 +1689,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -1700,7 +1700,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -1711,7 +1711,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"10"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1723,7 +1723,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"20"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1735,7 +1735,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"20"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1747,7 +1747,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"14"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1759,7 +1759,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"14"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1771,7 +1771,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"34"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1794,7 +1794,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"52"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
@@ -1803,7 +1803,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"72"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
@@ -1812,7 +1812,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"100"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
@@ -1821,7 +1821,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"140"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
@@ -1830,7 +1830,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"180"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
@@ -1843,7 +1843,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"36"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1855,7 +1855,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"14"
 				"weight"		"400"
 				"additive"		"0"
@@ -1866,7 +1866,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"20"
 				"weight"		"400"
 				"additive"		"0"
@@ -1878,7 +1878,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"14"
 				"weight"		"400"
 				"additive"		"0"
@@ -1890,7 +1890,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -1901,7 +1901,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"7"
 				"weight"		"400"
 				"additive"		"0"
@@ -1913,7 +1913,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -2067,7 +2067,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"14"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"300"
@@ -2079,7 +2079,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"12"
 				"weight"		"500"
 				"range"			"0x0000 0x017F"
@@ -2091,7 +2091,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"10"
 				"weight"		"500"
 				"range"			"0x0000 0x017F"
@@ -2140,7 +2140,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"36"
 				"weight"		"500"
 			}
@@ -2149,7 +2149,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"30"
 				"weight"		"500"
 			}
@@ -2158,7 +2158,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"28"
 				"weight"		"500"
 			}
@@ -2167,7 +2167,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"22"
 				"weight"		"900"
 			}
@@ -2176,7 +2176,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"18"
 				"weight"		"900"
 			}
@@ -2185,7 +2185,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"22"
 				"weight"		"500"
 			}
@@ -2194,7 +2194,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"18"
 				"weight"		"500"
 			}
@@ -2232,7 +2232,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"36"
 				"weight"		"500"
 				"additive"		"0"
@@ -2243,7 +2243,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"12"
 				"weight"		"600"
 				"additive"		"0"
@@ -2255,7 +2255,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"18"
 				"weight"		"400"
 				"additive"		"0"
@@ -2267,7 +2267,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"14"
 				"weight"		"900"
 				"antialias" 	"1"
@@ -2301,7 +2301,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -2345,7 +2345,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"10"
 				"weight"		"500"
 				"additive"		"0"
@@ -2356,7 +2356,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -2367,7 +2367,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
@@ -2378,7 +2378,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -2389,7 +2389,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"10"
 				"weight"		"500"
 				"additive"		"0"
@@ -2400,7 +2400,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"10"
 				"antialias"		"1"
 				"weight"		"500"
@@ -2410,7 +2410,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"10"
 				"weight"		"500"
 				"additive"		"0"
@@ -2421,7 +2421,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -2432,7 +2432,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
@@ -2444,7 +2444,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"10"
 				"weight"		"500"
 				"additive"		"0"
@@ -2455,7 +2455,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"10"
 				"weight"		"500"
 				"blur"			"3"
@@ -2467,7 +2467,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"10"
 				"weight"		"0"
 				"additive"		"1"
@@ -2826,7 +2826,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -2890,7 +2890,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -2901,7 +2901,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
@@ -2912,7 +2912,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -2923,7 +2923,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"24"
 				"weight"		"500"
 				"additive"		"0"
@@ -2934,7 +2934,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -2958,7 +2958,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"24"
 				"weight"		"500"
 				"additive"		"0"
@@ -2970,7 +2970,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"15"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -2983,7 +2983,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -2995,7 +2995,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"12"
 				"weight"		"500"
 				"antialias" 	"1"
@@ -3006,7 +3006,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"12"
 				"weight"		"500"
 				"blur"			"3"
@@ -3019,7 +3019,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -3221,8 +3221,8 @@ Scheme
 		}
 		"8"
 		{
-			"font"	"resource/fonts/CIKANDEI.ttf"
-			"name"	"CIKANDEI"
+			"font"	"resource/fonts/NotoSerif-Bold.ttf"
+			"name"	"Noto Serif Bold"
 		}
 		"9"
 		{
@@ -3231,8 +3231,8 @@ Scheme
 		}
 		"10"
 		{
-			"font"	"resource/fonts/Futura PT Bold.otf"
-			"name"	"Futura PT Bold"
+			"font"	"resource/fonts/NotoSerif-Regular.otf"
+			"name"	"Noto Serif Regular"
 			"turkish"
 			{
 				"range" "0x0000 0xFFFF"

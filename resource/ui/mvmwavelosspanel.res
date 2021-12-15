@@ -1,1 +1,1 @@
-#base "../../_zeeshud_base/mvm/wave_lost.res"
+#base "../../_saigono_base/mvm/wave_lost.res"

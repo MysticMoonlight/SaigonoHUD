@@ -33,7 +33,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"WindowLabel"
-		"font"				"FUTURA_BOLD_12"
+		"font"				"SERIF_REG_12"
 		"xpos"				"4"
 		"ypos"				"2"
 		"zpos"				"2"
@@ -47,14 +47,14 @@
 		"textAlignment"		"west"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"fgcolor"			"ZeesBlack"
+		"fgcolor"			"Black"
 	}
 
 	"TitleLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"TitleLabel"
-		"font"				"FUTURA_BOLD_24"
+		"font"				"SERIF_REG_24"
 		"xpos"				"8"
 		"ypos"				"13"
 		"zpos"				"2"
@@ -74,8 +74,8 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"TitleLabelDropshadow"
-		"font"				"FUTURA_BOLD_24"
-		"fgcolor"			"ZeesBlack"
+		"font"				"SERIF_REG_24"
+		"fgcolor"			"Black"
 		"xpos"				"-2"
 		"ypos"				"-2"
 		"zpos"				"1"

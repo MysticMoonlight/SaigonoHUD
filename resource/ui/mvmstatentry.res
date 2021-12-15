@@ -1,1 +1,1 @@
-#base "../../_zeeshud_base/mvm/stat_entry.res"
+#base "../../_saigono_base/mvm/stat_entry.res"

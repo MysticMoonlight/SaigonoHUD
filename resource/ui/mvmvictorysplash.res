@@ -1,1 +1,1 @@
-#base "../../_zeeshud_base/mvm/victory_splash.res"
+#base "../../_saigono_base/mvm/victory_splash.res"

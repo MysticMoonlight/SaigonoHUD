@@ -1,1 +1,1 @@
-#base "..\..\_zeeshud_base\ingame_popups\arena_notification.res"
+#base "..\..\_saigono_base\ingame_popups\arena_notification.res"

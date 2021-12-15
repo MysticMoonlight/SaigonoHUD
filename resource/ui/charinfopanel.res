@@ -44,7 +44,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"scaleImage"		"1"
-		"drawcolor"			"ZeesMain"
+		"drawcolor"			"SaigonoMain"
 	}
 
 	"BackgroundHeader"
@@ -113,12 +113,12 @@
 			"textinsety"		"5"
 			"textAlignment"		"north"
 			"font"				"HudFontSmall"
-			"selectedcolor"		"ZeesWhite"
-			"unselectedcolor"	"ZeesGray"
-			"defaultBgColor_override"	"ZeesNull"
+			"selectedcolor"		"White"
+			"unselectedcolor"	"Gray"
+			"defaultBgColor_override"	"NullColor"
 			"paintbackground"			"2"
-			"activeborder_override"		"ZeesBorderWhite"
-			"normalborder_override"		"ZeesBorderRed"
+			"activeborder_override"		"BorderWhite"
+			"normalborder_override"		"BorderRed"
 		}
 	}
 
@@ -144,8 +144,8 @@
 		"default"		"0"
 		"Command"		"back"
 		"PaintBackgroundType"	"2"
-		"border_default"	"ZeesBorderWhite"
-		"border_armed"		"ZeesBorderRed"
+		"border_default"	"BorderWhite"
+		"border_armed"		"BorderRed"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}

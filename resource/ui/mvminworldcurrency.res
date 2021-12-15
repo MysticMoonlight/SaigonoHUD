@@ -1,1 +1,1 @@
-#base "../../_zeeshud_base/mvm/money_inworld.res"
+#base "../../_saigono_base/mvm/money_inworld.res"

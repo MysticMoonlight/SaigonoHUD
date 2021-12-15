@@ -3,13 +3,13 @@ Scheme
 	Fonts
 	{
 		
-		// ZEESHUD CROSSHAIR NUMBER SIZE
+		// Crosshair Number Size
 		
 		"Centered (8)"
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"8"
 				"additive"		"0"
 				"antialias"		"1"
@@ -20,7 +20,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"10"
 				"additive"		"0"
 				"antialias"		"1"
@@ -31,7 +31,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"12"
 				"additive"		"0"
 				"antialias"		"1"
@@ -42,7 +42,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"14"
 				"additive"		"0"
 				"antialias"		"1"
@@ -53,7 +53,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"16"
 				"additive"		"0"
 				"antialias"		"1"
@@ -64,7 +64,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"8"
 				"additive"		"0"
 				"antialias"		"1"
@@ -76,7 +76,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"10"
 				"additive"		"0"
 				"antialias"		"1"
@@ -88,7 +88,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"12"
 				"additive"		"0"
 				"antialias"		"1"
@@ -100,7 +100,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"14"
 				"additive"		"0"
 				"antialias"		"1"
@@ -112,7 +112,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"16"
 				"additive"		"0"
 				"antialias"		"1"
@@ -121,13 +121,13 @@ Scheme
 		}
 		
 	
-		// ZEESHUD DAMAGE NUMBERS
+		// Damage Numbers
 		
 		"Damage (16)"
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"16"
 				"additive"		"0"
 				"antialias"		"1"
@@ -138,7 +138,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"20"
 				"additive"		"0"
 				"antialias"		"1"
@@ -149,7 +149,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"24"
 				"additive"		"0"
 				"antialias"		"1"
@@ -160,7 +160,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"28"
 				"additive"		"0"
 				"antialias"		"1"
@@ -171,7 +171,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"32"
 				"additive"		"0"
 				"antialias"		"1"
@@ -182,7 +182,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"36"
 				"additive"		"0"
 				"antialias"		"1"
@@ -193,7 +193,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"40"
 				"additive"		"0"
 				"antialias"		"1"
@@ -204,7 +204,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"44"
 				"additive"		"0"
 				"antialias"		"1"
@@ -215,7 +215,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"48"
 				"additive"		"0"
 				"antialias"		"1"
@@ -226,7 +226,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"52"
 				"additive"		"0"
 				"antialias"		"1"
@@ -237,7 +237,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Futura PT Bold"
+				"name"			"Noto Serif Regular"
 				"tall" 		 	"56"
 				"additive"		"0"
 				"antialias"		"1"

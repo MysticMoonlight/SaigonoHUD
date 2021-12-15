@@ -1,1 +1,1 @@
-#base "../../_zeeshud_base/matchmaking/ping.res"
+#base "../../_saigono_base/matchmaking/ping.res"

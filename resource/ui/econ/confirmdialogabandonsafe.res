@@ -17,9 +17,9 @@
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
 		"paintborder"			"1"
-		"border_default"		"ZeesBorderWhite"
-		"border_armed"			"ZeesBorderRed"
-		"bgcolor_override"		"ZeesBlack"
+		"border_default"		"BorderWhite"
+		"border_armed"			"BorderRed"
+		"bgcolor_override"		"Black"
 	}
 
 	"TitleLabel"
@@ -44,7 +44,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ExplanationLabel"
-		"font"					"FUTURA_BOLD_12"
+		"font"					"SERIF_REG_12"
 		"labelText"				"%text%"
 		"textAlignment"			"north"
 		"xpos"					"40"
@@ -83,8 +83,8 @@
 		"Command"				"cancel"
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
-		"border_default"		"ZeesBorderWhite"
-		"border_armed"			"ZeesBorderRed"
+		"border_default"		"BorderWhite"
+		"border_armed"			"BorderRed"
 		"paintbackground"		"0"
 	}
 
@@ -112,8 +112,8 @@
 		"Command"				"confirm"
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
-		"border_default"		"ZeesBorderWhite"
-		"border_armed"			"ZeesBorderRed"
+		"border_default"		"BorderWhite"
+		"border_armed"			"BorderRed"
 		"paintbackground"		"0"
 	}
 }

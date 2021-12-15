@@ -20,7 +20,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"TitleLabel"
-		"font"				"FUTURA_BOLD_10"
+		"font"				"SERIF_REG_10"
 		"xpos"				"3"
 		"ypos"				"1"
 		"zpos"				"3"
@@ -34,7 +34,7 @@
 		"textAlignment"		"west"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"fgcolor"			"ZeesBlack"
+		"fgcolor"			"Black"
 	}
 
 
@@ -56,7 +56,7 @@
 		"textAlignment"		"center"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"font"				"FUTURA_BOLD_8"
+		"font"				"SERIF_REG_8"
 	}
 
 	"CancelLabel"
@@ -308,15 +308,15 @@
 		"enabled"			"0"
 		"scaleImage"		"0"
 		"icon"				"ico_key_blank"
-		"iconColor"			"ZeesWhite"
+		"iconColor"			"White"
 	}
 
 	"NumberLabel1"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"NumberLabel"
-		"font"				"FUTURA_BOLD_12"
-		"fgcolor"			"ZeesWhite"
+		"font"				"SERIF_REG_12"
+		"fgcolor"			"White"
 		"xpos"				"10"
 		"ypos"				"30"
 		"zpos"				"5"
@@ -352,8 +352,8 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"NumberLabel"
-		"font"				"FUTURA_BOLD_12"
-		"fgcolor"			"ZeesWhite"
+		"font"				"SERIF_REG_12"
+		"fgcolor"			"White"
 		"xpos"				"10"
 		"ypos"				"80"
 		"zpos"				"5"
@@ -389,8 +389,8 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"NumberLabel"
-		"font"				"FUTURA_BOLD_12"
-		"fgcolor"			"ZeesWhite"
+		"font"				"SERIF_REG_12"
+		"fgcolor"			"White"
 		"xpos"				"10"
 		"ypos"				"130"
 		"zpos"				"5"

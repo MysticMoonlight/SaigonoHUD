@@ -1,1 +1,1 @@
-#base "../../_zeeshud_base/matchmaking/casual_gamemode_panel.res"
+#base "../../_saigono_base/matchmaking/casual_gamemode_panel.res"

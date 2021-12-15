@@ -1,1 +1,1 @@
-#base "../../_zeeshud_base/mvm/dialog_requirement.res"
+#base "../../_saigono_base/mvm/dialog_requirement.res"

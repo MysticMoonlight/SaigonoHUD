@@ -2,35 +2,35 @@ Scheme
 {
 	Colors
 	{
-	
-		//ZEESHUD
+		//---------------------------------------------
+		// SaigonoHUD
 		//---------------------------------------------
 		
-		//	"ZeesRed"					"255 0 90 255"
-		"ZeesRed"					"189 58 58 255"
-		"ZeesDarkRed"				"133 7 51 255"
-		"ZeesDarkerRed"				"71 9 31 255"
+		//	"Red"					"63 6 6 255"
+		"Red"					"189 58 58 255"
+		"DarkRed"				"133 7 51 255"
+		"DarkerRed"				"71 9 31 255"
 		
-		//	"ZeesBlue"					"0 164 255 255"
-		"ZeesBlue"					"91 122 140 255"
-		"ZeesDarkBlue"				"7 86 133 255"
-		"ZeesDarkerBlue"			"9 48 71 255"
+		//	"Blue"					"0 164 255 255"
+		"Blue"					"91 122 140 255"
+		"DarkBlue"				"7 86 133 255"
+		"DarkerBlue"			"9 48 71 255"
 		
-		"ZeesGreen"					"0 255 164 255"
-		"ZeesDarkGreen"				"7 133 89 255"
-		"ZeesDarkerGreen"			"9 71 49 255"
+		"Green"					"0 255 164 255"
+		"DarkGreen"				"7 133 89 255"
+		"DarkerGreen"			"9 71 49 255"
 		
-		"ZeesYellow"				"255 214 0 255"
-		"ZeesDarkYellow"			"133 114 7 255"
-		"ZeesDarkerYellow"			"71 61 9 255"
+		"Yellow"				"255 214 0 255"
+		"DarkYellow"			"133 114 7 255"
+		"DarkerYellow"			"71 61 9 255"
 
 		
-		"ZeesWhite"					"255 255 255 255"
-		"ZeesBlack"					"0 0 0 255"
-		"ZeesDarkGray"				"42 43 47 255"
-		"ZeesGray"					"120 122 131 255"
+		"White"					"255 255 255 255"
+		"Black"					"0 0 0 255"
+		"DarkGray"				"42 43 47 255"
+		"Gray"					"120 122 131 255"
 		
-		"ZeesNull"					"0 0 0 0"
+		"NullColor"					"0 0 0 0"
 		
 		
 
@@ -39,7 +39,7 @@ Scheme
 		
 		
 		//---------------------------------------------
-		// RAYSHUD COLORS (GET RID OF THOSE IN FINAL RELEASE EWWW YUCKY!!!!!)
+		// RAYSHUD COLORS
 		//---------------------------------------------
 		"ColorRed"					"255 0 0 255"
 		"ColorVermillion"			"255 64 0 255"
@@ -77,12 +77,12 @@ Scheme
 		//---------------------------------------------
 		// Ubercharge
 		"Uber Bar Color"			"255 255 255 255"
-		"Solid Color Uber"			"255 0 90 255"
-		"Flashing Uber Color1"		"255 0 90 255"
+		"Solid Color Uber"			"63 6 6 255"
+		"Flashing Uber Color1"		"63 6 6 255"
 		"Flashing Uber Color2"		"255 0 0 255"
 		//---------------------------------------------
 		// Player Stats
-		"StatBar1"					"255 0 90 128"
+		"StatBar1"					"63 6 6 128"
 		"StatBar2"					"230 0 80 128"
 		"StatBar3"					"204 0 71 128"
 		"StatBar4"					"179 0 62 128"
@@ -94,11 +94,11 @@ Scheme
 		//---------------------------------------------
 		// DEFAULT COLORS
 		//---------------------------------------------
-		"Orange"								"ZeesRed"
-		"OrangeDim"								"ZeesRed"
+		"Orange"								"Red"
+		"OrangeDim"								"Red"
 		"LightOrange"							"188 112 0 128"
 		"GoalOrange"							"255 133 0 255"
-		"TFOrange"								"ZeesRed"
+		"TFOrange"								"Red"
 		"Purple"								"137 69 99 255"
 
 		"HalloweenThemeColor2015_Light"			"238 126 17 255"
@@ -120,8 +120,8 @@ Scheme
 		"PartyMember6"							"255 133 255 255"
 
 		"White"									"255 255 255 255"
-		"Red"									"255 0 90 140"
-		"RedSolid"								"255 0 90 255"
+		"Red"									"63 6 6 140"
+		"RedSolid"								"63 6 6 255"
 		"Blue"									"0 255 164 140"
 		"BlueSolid"								"0 255 164 255"
 		"Yellow"								"251 235 202 255"
@@ -162,16 +162,16 @@ Scheme
 		"HudProgressBarActiveLow"				"240 30 30 255"
 		"HudProgressBarInActiveLow"				"240 30 30 99"
 
-		"HudTimerProgressActive"				"ZeesWhite"
-		"HudTimerProgressInActive"				"ZeesGray"
-		"HudTimerProgressWarning"				"ZeesRed"
+		"HudTimerProgressActive"				"White"
+		"HudTimerProgressInActive"				"Gray"
+		"HudTimerProgressWarning"				"Red"
 
 		// Training
 		"HudTrainingHint"						"212 160 23 255"
 
-		"TanDark"								"120 122 131 255" //ZeesGray
+		"TanDark"								"120 122 131 255" //Gray
 		"TanLight"								"255 255 255 255"
-		"TanDarker"								"42 43 47 255" //ZeesDarkGray
+		"TanDarker"								"42 43 47 255" //DarkGray
 
 		"StoreDarkTan"							"103 97 110 255"
 		"StoreGreen"							"76 107 34 255"

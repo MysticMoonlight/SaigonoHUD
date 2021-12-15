@@ -1,1 +1,1 @@
-#base "../../_zeeshud_base/matchmaking/side_panel_playlist.res"
+#base "../../_saigono_base/matchmaking/side_panel_playlist.res"

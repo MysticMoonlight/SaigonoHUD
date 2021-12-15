@@ -1,1 +1,1 @@
-#base "../../_zeeshud_base/ingame_popups/killcam.res"
+#base "../../_saigono_base/ingame_popups/killcam.res"

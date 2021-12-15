@@ -12,13 +12,13 @@
 			"wide"			"130"
 			"tall"			"150"
 			"visible"		"1"
-			"bgcolor_override"	"ZeesNull"
+			"bgcolor_override"	"NullColor"
 
 			"TitleLabel"
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"TitleLabel"
-				"font"			"FUTURA_BOLD_20"
+				"font"			"SERIF_REG_20"
 				"labelText"		"#TF_Competitive_Friends"
 				"textAlignment"	"center"
 				"xpos"			"0"
@@ -27,7 +27,7 @@
 				"tall"			"20"
 				"visible"		"0"
 				"enabled"		"0"
-				"fgcolor_override"	"ZeesWhite"
+				"fgcolor_override"	"White"
 			}
 
 			"InnerShadow"
@@ -71,7 +71,7 @@
 				{
 					"wide"			"110"
 					"tall"			"20"
-					"border"		"ZeesBorderFriends"
+					"border"		"BorderFriends"
 				}
 
 				"ScrollBar"
@@ -88,7 +88,7 @@
 
 					"Slider"
 					{
-						"fgcolor_override"	"ZeesWhite"
+						"fgcolor_override"	"White"
 					}
 
 					"UpButton"

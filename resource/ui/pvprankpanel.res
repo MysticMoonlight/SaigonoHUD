@@ -1,1 +1,1 @@
-#base "../../_zeeshud_base/matchmaking/xp_rank.res"
+#base "../../_saigono_base/matchmaking/xp_rank.res"

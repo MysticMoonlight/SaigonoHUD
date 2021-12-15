@@ -16,7 +16,7 @@
 		"settitlebarvisible"	"0"
 		"paintborder"			"2"
 		"paintbackground"		"1"
-		"border"				"ZeesBorderWhite"
+		"border"				"BorderWhite"
 		"bgcolor_override"		"DarkGrey"
 	}
 

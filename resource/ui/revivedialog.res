@@ -1,1 +1,1 @@
-#base "../../_zeeshud_base/mvm/medic_revive.res"
+#base "../../_saigono_base/mvm/medic_revive.res"

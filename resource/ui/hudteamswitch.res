@@ -1,1 +1,1 @@
-#base "..\..\_zeeshud_base\ingame_popups\notif_autobalance.res"
+#base "..\..\_saigono_base\ingame_popups\notif_autobalance.res"

@@ -17,6 +17,6 @@
 	
 	"ItemEffectMeterBG"
 	{
-		"bgcolor_override"	"ZeesDarkRed"
+		"bgcolor_override"	"DarkRed"
 	}
 }

@@ -1,1 +1,1 @@
-#base "..\..\_zeeshud_base\menus\loadout_quickswitch.res"
+#base "..\..\_saigono_base\menus\loadout_quickswitch.res"

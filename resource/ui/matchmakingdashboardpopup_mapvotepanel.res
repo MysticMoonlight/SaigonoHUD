@@ -1,1 +1,1 @@
-#base "../../_zeeshud_base/matchmaking/popup_mapvote.res"
+#base "../../_saigono_base/matchmaking/popup_mapvote.res"

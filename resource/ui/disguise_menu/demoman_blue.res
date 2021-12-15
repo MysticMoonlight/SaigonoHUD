@@ -4,19 +4,19 @@
 {
 	"ItemNameLabel"
 	{
-		"fgcolor"			"ZeesBlue"
+		"fgcolor"			"Blue"
 		"labelText"			"#TF_Class_Name_Demoman"
 	}
 
 	"NewNumberLabel"
 	{
-		"fgcolor"			"ZeesBlue"
+		"fgcolor"			"Blue"
 		"labelText"			"1"
 	}
 
 	"NumberLabel"
 	{
-		"fgcolor"			"ZeesBlue"
+		"fgcolor"			"Blue"
 		"labelText"			"4"
 	}
 }

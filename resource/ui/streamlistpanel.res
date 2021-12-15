@@ -1,1 +1,1 @@
-#base "../../_zeeshud_base/menus/stream_list.res"
+#base "../../_saigono_base/menus/stream_list.res"

@@ -3,10 +3,10 @@ Scheme
 	Borders
 	{
 			
-		// ZEESHUD GENERIC BORDERS
+		// SaigonoHUD Generic Borders
 		
 		
-		ZeesMenuButton
+		MenuButton
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
@@ -17,7 +17,7 @@ Scheme
 			"draw_corner_width"		"10"					// screen size of the corners ( and sides ), proportional
 			"draw_corner_height" 	"10"
 		}
-		ZeesMenuButtonSelect
+		MenuButtonSelect
 	{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
@@ -73,7 +73,7 @@ Scheme
 			"draw_corner_height" 	"8"
 		}
 		
-		ZeesBorderWhiteOpaque
+		BorderWhiteOpaque
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
@@ -85,7 +85,7 @@ Scheme
 			"draw_corner_height" 	"7"
 		}
 		
-		ZeesBorderBlueOpaque
+		BorderBlueOpaque
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
@@ -97,7 +97,7 @@ Scheme
 			"draw_corner_height" 	"7"
 		}
 		
-		ZeesBorderRedOpaque
+		BorderRedOpaque
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
@@ -109,11 +109,11 @@ Scheme
 			"draw_corner_height" 	"7"
 		}
 		
-		ZeesBorderColoredOpaque
+		BorderColoredOpaque
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"ZeesMain"
+			"color"					"SaigonoMain"
 			"image"					"replay/thumbnails/box_3_n"
 			"src_corner_height"		"30"				// pixels inside the image
 			"src_corner_width"		"30"
@@ -121,7 +121,7 @@ Scheme
 			"draw_corner_height" 	"7"
 		}
 		
-		ZeesBorderWhite
+		BorderWhite
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
@@ -133,7 +133,7 @@ Scheme
 			"draw_corner_height" 	"7"
 		}
 		
-		ZeesBorderBlue
+		BorderBlue
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
@@ -145,7 +145,7 @@ Scheme
 			"draw_corner_height" 	"7"
 		}
 		
-		ZeesBorderRed
+		BorderRed
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
@@ -157,11 +157,11 @@ Scheme
 			"draw_corner_height" 	"7"
 		}
 		
-		ZeesBorderColored
+		BorderColored
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"ZeesMain"
+			"color"					"SaigonoMain"
 			"image"					"replay/thumbnails/box_3_n_t"
 			"src_corner_height"		"30"				// pixels inside the image
 			"src_corner_width"		"30"
@@ -169,11 +169,11 @@ Scheme
 			"draw_corner_height" 	"7"
 		}
 		
-		ZeesBorderFriends
+		BorderFriends
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"ZeesMain"
+			"color"					"SaigonoMain"
 			"image"					"replay/thumbnails/box_3_n"
 			"src_corner_height"		"30"				// pixels inside the image
 			"src_corner_width"		"30"
@@ -181,11 +181,11 @@ Scheme
 			"draw_corner_height" 	"3"
 		}
 				
-		ZeesBorderColorOpaque
+		BorderColorOpaque
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"ZeesMain"
+			"color"					"SaigonoMain"
 			"image"					"replay/thumbnails/box_3_n"
 			"src_corner_height"		"30"				// pixels inside the image
 			"src_corner_width"		"30"
@@ -193,11 +193,11 @@ Scheme
 			"draw_corner_height" 	"7"
 		}
 		
-		ZeesBorderColorDarkOpaque
+		BorderColorDarkOpaque
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"ZeesDarkMain"
+			"color"					"DarkMain"
 			"image"					"replay/thumbnails/box_3_n"
 			"src_corner_height"		"30"				// pixels inside the image
 			"src_corner_width"		"30"
@@ -260,17 +260,17 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ZeesRed"
+					"color" "Red"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "ZeesRed"
+					"color" "Red"
 					"offset" "0 1"
 				}
 				"3"
 				{
-					"color" "ZeesRed"
+					"color" "Red"
 					"offset" "1 1"
 				}
 			}
@@ -1153,7 +1153,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"ZeesMain"
+			"color"					"SaigonoMain"
 			"image"					"replay/thumbnails/box_3_n"
 			"src_corner_height"		"30"			// pixels inside the image
 			"src_corner_width"		"30"
@@ -1166,7 +1166,7 @@ Scheme
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
 			"image"					"replay/thumbnails/box_3_n"
-			"color"					"ZeesMain"
+			"color"					"SaigonoMain"
 			"src_corner_height"		"32"				// pixels inside the image
 			"src_corner_width"		"32"
 			"draw_corner_width"		"2"					// screen size of the corners ( and sides ), proportional
@@ -1190,7 +1190,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"ZeesDarkGray"
+			"color"					"DarkGray"
 			"image"					"replay/thumbnails/box_3_n"
 			"src_corner_height"		"30"				// pixels inside the image
 			"src_corner_width"		"30"
@@ -1202,7 +1202,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"ZeesMain"
+			"color"					"SaigonoMain"
 			"image"					"replay/thumbnails/box_3_n"
 			"src_corner_height"		"30"				// pixels inside the image
 			"src_corner_width"		"30"
@@ -1214,7 +1214,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"ZeesWhite"
+			"color"					"White"
 			"image"					"replay/thumbnails/box_3_n"
 			"src_corner_height"		"30"				// pixels inside the image
 			"src_corner_width"		"30"

@@ -1,1 +1,1 @@
-#base "..\..\_zeeshud_base\ingame_popups\team_selection.res"
+#base "..\..\_saigono_base\ingame_popups\team_selection.res"

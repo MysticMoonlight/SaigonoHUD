@@ -43,7 +43,7 @@
 		"enabled"		"0"
 		"scaleImage"	"0"
 		"icon"			"ico_metal"
-		"iconColor"		"ZeesBlack"
+		"iconColor"		"Black"
 	}
 
 	"MetalIconShadow"

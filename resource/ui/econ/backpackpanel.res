@@ -14,9 +14,9 @@
 		"tabPosition"		"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"				"ZeesNull"
-		"infocus_bgcolor_override"		"ZeesNull"
-		"outoffocus_bgcolor_override" 	"ZeesNull"
+		"bgcolor_override"				"NullColor"
+		"infocus_bgcolor_override"		"NullColor"
+		"outoffocus_bgcolor_override" 	"NullColor"
 
 		"item_xpos_offcenter_a"	"-310"
 		"item_xpos_offcenter_b"	"165"
@@ -46,7 +46,7 @@
 			"tall"				"10"
 			"visible"			"0"
 			"bgcolor_override"	"Transparent"
-			"noitem_textcolor"	"ZeesGray"
+			"noitem_textcolor"	"Gray"
 			"PaintBackgroundType"	"2"
 			"paintborder"			"1"
 
@@ -57,8 +57,8 @@
 				"wide"				"25"
 				"tall"				"13"
 				"visible"			"1"
-				"bgcolor_override"	"ZeesMain"
-				"noitem_textcolor"	"ZeesGray"
+				"bgcolor_override"	"SaigonoMain"
+				"noitem_textcolor"	"Gray"
 				"PaintBackgroundType"	"2"
 				"paintborder"		"1"
 				"textAlignment"		"center"
@@ -102,7 +102,7 @@
 			"tall"			"42"
 			"visible"		"0"
 			"bgcolor_override"		"Transparent"
-			"noitem_textcolor"		"ZeesGray"
+			"noitem_textcolor"		"Gray"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"1"
 
@@ -184,7 +184,7 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"fgcolor"			"ZeesWhite"
+		"fgcolor"			"White"
 	}
 
 	"tool_icon"
@@ -226,12 +226,12 @@
 		"unicode"			"0"
 		"default"			"0"
 
-		"fgcolor_override"					"ZeesWhite"
+		"fgcolor_override"					"White"
 		"bgcolor_override"					"Transparent"
-		"disabledFgColor_override"			"ZeesWhite"
+		"disabledFgColor_override"			"White"
 		"disabledBgColor_override"			"Transparent"
 		"selectionColor_override"			"Transparent"
-		"selectionTextColor_override"		"ZeesWhite"
+		"selectionTextColor_override"		"White"
 		"defaultSelectionBG2Color_override"	"Transparent"
 	}
 
@@ -273,7 +273,7 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"fgcolor"			"ZeesWhite"
+		"fgcolor"			"White"
 	}
 
 	"NameFilterTextEntry"
@@ -292,8 +292,8 @@
 		"textHidden"		"0"
 		"editable"			"1"
 		"unicode"			"1"
-		"fgcolor_override"	"ZeesWhite"
-		"bgcolor_override"	"ZeesGray"
+		"fgcolor_override"	"White"
+		"bgcolor_override"	"Gray"
 		"paintbackgroundtype" "2"
 		"font"				"HudFontSmallest"
 	}
@@ -318,12 +318,12 @@
 		"NumericInputOnly"	"0"
 		"unicode"			"0"
 
-		"fgcolor_override"				"ZeesWhite"
+		"fgcolor_override"				"White"
 		"bgcolor_override"				"Transparent"
-		"disabledFgColor_override"		"ZeesWhite"
+		"disabledFgColor_override"		"White"
 		"disabledBgColor_override"		"Transparent"
 		"selectionColor_override"		"Transparent"
-		"selectionTextColor_override"	"ZeesWhite"
+		"selectionTextColor_override"	"White"
 		"defaultSelectionBG2Color_override" "Transparent"
 	}
 
@@ -338,7 +338,7 @@
 		"tall"				"300"
 		"visible"			"0"
 		"bgcolor_override"	"Transparent"
-		"noitem_textcolor"	"ZeesGray"
+		"noitem_textcolor"	"Gray"
 		"PaintBackgroundType"	"2"
 		"paintborder"		"1"
 		"text_center"		"1"
@@ -360,7 +360,7 @@
 			"enabled"		"1"
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
-			"fgcolor"		"ZeesGray"
+			"fgcolor"		"Gray"
 			"centerwrap"	"1"
 		}
 	}
@@ -376,7 +376,7 @@
 		"tall"			"42"
 		"visible"		"0"
 		"bgcolor_override"		"Transparent"
-		"noitem_textcolor"		"ZeesGray"
+		"noitem_textcolor"		"Gray"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		"model_ypos"	"5"
@@ -432,7 +432,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "ZeesMain"
+		"fgcolor_override" "SaigonoMain"
 	}
 
 	"NextPageButton"
@@ -530,7 +530,7 @@
 		"Command"		"canceltool"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"bgcolor_override"	"ZeesDarkGray"
+		"bgcolor_override"	"DarkGray"
 	}
 
 
@@ -635,7 +635,7 @@
 			"defaultFgColor_override" "TanDarker"
 			"armedFgColor_override" "LightRed"
 			"depressedFgColor_override" "TanDarker"
-			"image_drawcolor"	"ZeesGray"
+			"image_drawcolor"	"Gray"
 			"image_armedcolor"	"LightRed"
 
 			"SubImage"
@@ -701,7 +701,7 @@
 			"defaultFgColor_override" "TanDarker"
 			"armedFgColor_override" "LightRed"
 			"depressedFgColor_override" "TanDarker"
-			"image_drawcolor"	"ZeesWhite"
+			"image_drawcolor"	"White"
 			"image_armedcolor"	"White"
 
 			"SubImage"
@@ -809,7 +809,7 @@
 			"defaultFgColor_override" "TanDarker"
 			"armedFgColor_override" "LightRed"
 			"depressedFgColor_override" "TanDarker"
-			"image_drawcolor"	"ZeesGray"
+			"image_drawcolor"	"Gray"
 			"image_armedcolor"	"LightRed"
 
 			"SubImage"
@@ -856,7 +856,7 @@
 			"defaultFgColor_override" "TanDarker"
 			"armedFgColor_override" "LightRed"
 			"depressedFgColor_override" "TanDarker"
-			"image_drawcolor"	"ZeesWhite"
+			"image_drawcolor"	"White"
 			"image_armedcolor"	"White"
 
 			"SubImage"
@@ -922,7 +922,7 @@
 			"defaultFgColor_override" "TanDarker"
 			"armedFgColor_override" "LightRed"
 			"depressedFgColor_override" "TanDarker"
-			"image_drawcolor"	"ZeesWhite"
+			"image_drawcolor"	"White"
 			"image_armedcolor"	"White"
 
 			"SubImage"
@@ -1030,7 +1030,7 @@
 			"defaultFgColor_override" "TanDarker"
 			"armedFgColor_override" "LightRed"
 			"depressedFgColor_override" "TanDarker"
-			"image_drawcolor"	"ZeesGray"
+			"image_drawcolor"	"Gray"
 			"image_armedcolor"	"LightRed"
 
 			"SubImage"
@@ -1077,7 +1077,7 @@
 			"defaultFgColor_override"	"TanDarker"
 			"armedFgColor_override"		"LightRed"
 			"depressedFgColor_override"	"TanDarker"
-			"image_drawcolor"			"ZeesWhite"
+			"image_drawcolor"			"White"
 			"image_armedcolor"			"White"
 
 			"SubImage"
@@ -1124,7 +1124,7 @@
 			"defaultFgColor_override"	"TanDarker"
 			"armedFgColor_override"		"LightRed"
 			"depressedFgColor_override"	"TanDarker"
-			"image_drawcolor"			"ZeesWhite"
+			"image_drawcolor"			"White"
 			"image_armedcolor"			"White"
 
 			"SubImage"
@@ -1252,7 +1252,7 @@
 			"defaultFgColor_override"	"TanDarker"
 			"armedFgColor_override"		"LightRed"
 			"depressedFgColor_override"	"TanDarker"
-			"image_drawcolor"			"ZeesGray"
+			"image_drawcolor"			"Gray"
 			"image_armedcolor"			"LightRed"
 
 			"SubImage"
@@ -1299,7 +1299,7 @@
 			"defaultFgColor_override"	"TanDarker"
 			"armedFgColor_override" 	"LightRed"
 			"depressedFgColor_override"	"TanDarker"
-			"image_drawcolor"			"ZeesWhite"
+			"image_drawcolor"			"White"
 			"image_armedcolor"			"White"
 
 			"SubImage"
@@ -1346,7 +1346,7 @@
 			"defaultFgColor_override"	"TanDarker"
 			"armedFgColor_override" 	"LightRed"
 			"depressedFgColor_override" "TanDarker"
-			"image_drawcolor"			"ZeesWhite"
+			"image_drawcolor"			"White"
 			"image_armedcolor"			"White"
 
 			"SubImage"
@@ -1473,7 +1473,7 @@
 			"defaultFgColor_override"	"TanDarker"
 			"armedFgColor_override"		"LightRed"
 			"depressedFgColor_override"	"TanDarker"
-			"image_drawcolor"			"ZeesGray"
+			"image_drawcolor"			"Gray"
 			"image_armedcolor"			"LightRed"
 
 			"SubImage"
@@ -1520,7 +1520,7 @@
 			"defaultFgColor_override"	"TanDarker"
 			"armedFgColor_override"		"LightRed"
 			"depressedFgColor_override"	"TanDarker"
-			"image_drawcolor"			"ZeesWhite"
+			"image_drawcolor"			"White"
 			"image_armedcolor"			"White"
 
 			"SubImage"

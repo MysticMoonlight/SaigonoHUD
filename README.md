@@ -1,12 +1,19 @@
-![ZEESHUD](https://i.imgur.com/UdOlF5w.png "zeeshud logo")
-**CURRENT VERSION :** ALPHA IV
+![SaigonoHUD](https://user-images.githubusercontent.com/25527589/146137677-ea2126b6-739b-482e-a658-ef1b974d8aa6.png)
+**SaigonoHUD 1.0.0-dev**
 
-# What is ZeesHUD?
-ZeesHUD is a work-in-progress stylish and ambitious HUD project for Team Fortress 2. The full first release will feature extensive customization options, ranging from colors to outright altering the style of an element.
+# What is SaigonoHUD?
+Saigo no Chi(lit. Final Blood), or simply SaigonoHUD(最期のHUD) is a yet another stylish and ambitious HUD project for Team Fortress 2, forked from ZeesHUD-UnDonered. It is intended to remove any reference to Zeesastrous and ZeesHUD and keeping the HUD Up-to-date for latest TF2, due to following criticism towards the author of the HUD.
 
 # What changes have been made?
+- Donor box has been removed, with black screen warnings
+- Every things related to Zeesastrous/ZeesHUD are completely removed
+- New logo and single background, as well as small changes to main menu
+- This project will remain non-profit, so any unrelated link will be removed except existing TF2 things
 
-Donor box has been removed from the main menu and the full screen pop up is (hopefully) disabled.
+# Note
+The fork status and previous contributions from GitHub will be remained, to prevent any further issues related to this project.
 
-# Zeesastrous has rq'd from the internet
-Alongside that, they deleted the Zeeshud repo. This one is the most up-to-date one. This one's always here to fork.
+We only upload this project to GitHub, not from GameBanana and HUDS.TF. So please do note that we cannot provide support for HUD you downloaded outside of GitHub.
+
+# License
+This project is licensed under GNU GPL v3.

@@ -1,1 +1,1 @@
-#base "..\..\_zeeshud_base\ingame_top\time_panel_points.res"
+#base "..\..\_saigono_base\ingame_top\time_panel_points.res"

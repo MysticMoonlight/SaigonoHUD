@@ -1,1 +1,1 @@
-#base "../../_zeeshud_base/mvm/mvm_moneystats_game.res"
+#base "../../_saigono_base/mvm/mvm_moneystats_game.res"
