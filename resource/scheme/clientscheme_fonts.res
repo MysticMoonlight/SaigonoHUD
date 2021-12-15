@@ -3221,7 +3221,7 @@ Scheme
 		}
 		"8"
 		{
-			"font"	"resource/fonts/NotoSerif-Bold.otf"
+			"font"	"resource/fonts/NotoSerif-Bold.ttf"
 			"name"	"Noto Serif Bold"
 			"turkish"
 			{
@@ -3284,16 +3284,6 @@ Scheme
 		{
 			"font"	"resource/fonts/GAMERIA.ttf"
 			"name"	"GAMERIA"
-		}
-		"10"
-		{
-			"font"	"resource/fonts/zeesHUDNumbers.ttf"
-			"name"	"Noto Serif Bold"
-		}
-		"11"
-		{
-			"font"	"resource/fonts/zeesHUDNumbersOutline.ttf"
-			"name"	"Noto Serif Bold"
 		}
 	}
 }
