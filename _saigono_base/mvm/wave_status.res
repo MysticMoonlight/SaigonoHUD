@@ -137,7 +137,7 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"fillcolor"			"Red"
+		"fillcolor"			"SaigonoMain"
 	}
 
 	"ProgressBarBG"
