@@ -62,7 +62,7 @@
 		"textAlignment"		"east"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"font"				"GAMERIA_10"
+		"font"				"KOMIKA_10"
 	}
 	
 

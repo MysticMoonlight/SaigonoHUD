@@ -96,8 +96,8 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"ZHO_28"
-		"font_minmode"			"ZHO_24"
+		"font"					"SERIFBOLD_28"
+		"font_minmode"			"SERIFBOLD_24"
 		"fgcolor"				"255 255 255 255"
 		
 		"pin_to_sibling"		"CountAnchor"
@@ -124,8 +124,8 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"ZH_25"
-		"font_minmode"			"ZH_21"
+		"font"					"SERIFBOLD_24"
+		"font_minmode"			"SERIFBOLD_20"
 		"fgcolor"				"255 255 255 255"
 
 		"pin_to_sibling"		"CountAnchor"

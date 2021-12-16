@@ -12,6 +12,6 @@
 		"PositiveColor"				"Green"
 		"NegativeColor"				"Red"
 		"delta_lifetime"			"1.5"
-		"delta_item_font"			"SERIF_REG_32"
+		"delta_item_font"			"SERIFBOLD_56"
 	}
 }

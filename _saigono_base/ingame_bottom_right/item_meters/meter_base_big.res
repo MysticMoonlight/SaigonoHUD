@@ -35,7 +35,7 @@
 	{
 		"xpos"				"20"
 		"ypos"				"11"
-		"font"				"GAMERIA_10"
+		"font"				"KOMIKA_10"
 		
 		"xpos_minmode"				"16"
 		"ypos_minmode"				"8"

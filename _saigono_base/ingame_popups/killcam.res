@@ -203,7 +203,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"FreezeLabelKillerFixed"
-			"font"			"SERIF_REG_24"
+			"font"			"SERIF_REG_20"
 			"xpos"			"0"
 			"ypos"			"-12"
 			"zpos"			"1"

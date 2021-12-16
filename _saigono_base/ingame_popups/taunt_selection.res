@@ -34,7 +34,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"GAMERIA_24"
+		"font"			"KOMIKA_24"
 		"xpos"			"10"
 		"ypos"			"0"
 		"zpos"			"3"
@@ -55,7 +55,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabelDropshadow"
-		"font"			"GAMERIA_24"
+		"font"			"KOMIKA_24"
 		"fgcolor"		"Black"
 		"xpos"			"-2"
 		"ypos"			"-2"

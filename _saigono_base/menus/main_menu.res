@@ -53,11 +53,11 @@
 				"paintbackground"	"0"
 
 				"defaultFgColor_override"	"255 255 255 255"
-				"armedFgColor_override"		"63 6 6 255"
+				"armedFgColor_override"		"161 17 17 255"
 				"depressedFgColor_override" "255 255 255 255"
 
 				"image_drawcolor"	"255 255 255 255"
-				"image_armedcolor"	"63 6 6 255"
+				"image_armedcolor"	"161 17 17 255"
 				"image_depressedcolor" "255 255 255 255"
 
 				"SubImage"
@@ -132,7 +132,7 @@
 		"tall"			"300"
 		"visible"		"0"
 		"bgcolor_override"		"Transparent"
-		"noitem_textcolor"		"63 6 6 255"
+		"noitem_textcolor"		"161 17 17 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 
@@ -157,7 +157,7 @@
 			"enabled"		"1"
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
-			"fgcolor"		"63 6 6 255"
+			"fgcolor"		"161 17 17 255"
 			"centerwrap"	"1"
 		}
 	}
@@ -1024,7 +1024,7 @@
 			"depressedFgColor_override"	"72 255 255 255"
 
 			"image_drawcolor"			"255 255 255 255"
-			"image_armedcolor"			"63 6 6 255"
+			"image_armedcolor"			"161 17 17 255"
 
 			"SubImage"
 			{
@@ -1103,18 +1103,18 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"HudName"
-		"xpos"			"r138"
+		"xpos"			"r140"
 		"ypos"			"r72"
 		"zpos"			"1"
 		"wide"			"135"
-		"tall"			"15"
+		"tall"			"18"
 		"autoResize"	"0"
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"SaigonoHUD v1.0.0-dev"
-		"font"			"SERIF_REG_16"
+		"font"			"SERIF_REG_12"
 		"textAlignment"	"east"
 		"textinsetx"	"0"
 		"use_proportional_insets" "1"
@@ -1126,11 +1126,11 @@
 		"sound_released"	"vo/pyro_laughevil04.mp3"
 
 		"defaultFgColor_override" "255 255 255 255"
-		"armedFgColor_override" "63 6 6 255"
+		"armedFgColor_override" "161 17 17 255"
 		"depressedFgColor_override" "72 255 255 255"
 
 		"image_drawcolor"	"255 255 255 255"
-		"image_armedcolor"	"63 6 6 255"
+		"image_armedcolor"	"161 17 17 255"
 
 		"SubImage"
 		{

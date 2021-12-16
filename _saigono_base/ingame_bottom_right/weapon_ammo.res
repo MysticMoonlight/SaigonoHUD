@@ -67,7 +67,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClip"
-		"font"			"ZH_51"
+		"font"			"SERIFBOLD_56"
 		"fgcolor"		"Ammo Clip"
 		
 		"xpos"			"r415"
@@ -84,32 +84,12 @@
 		"textAlignment"	"east"
 		"labelText"		"%Ammo%"
 	}
-	"AmmoInClipShadow"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"AmmoInClipShadow"
-		"font"			"ZHO_56"
-		"fgcolor"		"Ammo Clip Shadow"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"6"
-		"wide"			"200"
-		"tall"			"100"
-		"visible"		"0"
-		"enabled"		"0"
-		"textAlignment"	"east"
-		"labelText"		"%Ammo%"
-
-		"pin_to_sibling"		"AmmoInClip"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
-	}
 
 	"AmmoInReserve"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserve"
-		"font"			"ZH_21"
+		"font"			"SERIF_REG_24"
 		"fgcolor"		"Ammo Reserve"
 		
 		"xpos"			"r210"
@@ -124,40 +104,17 @@
 		"wide_minmode"	"200"
 		"tall_minmode"	"100"
 		
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"west"
 		"labelText"		"%AmmoInReserve%"
-	}
-	"AmmoInReserveShadow"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"AmmoInReserveShadow"
-		"font"			"ZHO_24"
-		"fgcolor"		"Ammo Reserve Shadow"
-		
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"8"
-		"wide"			"f0"
-		"tall"			"100"
-
-		
-		"visible"		"0"
-		"enabled"		"0"
-		"textAlignment"	"west"
-		"labelText"		"%AmmoInReserve%"
-
-		"pin_to_sibling"		"AmmoInReserve"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"AmmoNoClip"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClip"
-		"font"			"ZH_51"
+		"font"			"SERIFBOLD_56"
 		"fgcolor"		"Ammo Clip"
 		
 		"xpos"			"r290"
@@ -176,25 +133,5 @@
 		"enabled"		"1"
 		"textAlignment"	"center"
 		"labelText"		"%Ammo%"
-	}
-	"AmmoNoClipShadow"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"AmmoNoClipShadow"
-		"font"			"ZHO_56"
-		"fgcolor"		"Ammo Clip Shadow"
-		"xpos"			"-1"
-		"ypos"			"-1"
-		"zpos"			"5"
-		"wide"			"150"
-		"tall"			"100"
-		"visible"		"0"
-		"enabled"		"0"
-		"textAlignment"	"center"
-		"labelText"		"%Ammo%"
-
-		"pin_to_sibling"		"AmmoNoClip"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 }

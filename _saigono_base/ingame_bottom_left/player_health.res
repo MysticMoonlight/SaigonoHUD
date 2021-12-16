@@ -57,9 +57,6 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PlayerStatusHealthImage"
 		"xpos"			"100" 
-			//	HEY ZEE, THIS IS ZEE 
-			//	REMEMBER NOT TO MOVE THIS ELEMENT'S XPOS
-			//	OR IT'LL BREAK THE FUCKING ICONS AGAIN
 		"ypos"			"0"
 		"zpos"			"0"
 		"wide"			"0"
@@ -166,7 +163,7 @@
 		"zpos"			"5"
 		"wide"			"240"
 		"tall"			"100"
-		"font"			"ZH_51"
+		"font"			"SERIFBOLD_56"
 		
 		"xpos_minmode"	"40"
 		"ypos_minmode"	"r105"
@@ -191,7 +188,7 @@
 		"zpos"			"6"
 		"wide"			"240"
 		"tall"			"100"
-		"font"			"ZHO_56"
+		"font"			"SERIFBOLD_56"
 		
 		"visible"		"0"
 		"enabled"		"0"

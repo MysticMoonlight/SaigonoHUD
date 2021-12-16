@@ -94,7 +94,7 @@
 		"textAlignment"		"west"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"font"				"GAMERIA_8"
+		"font"				"KOMIKA_8"
 		"font_minmode"				"SERIF_REG_10"
 		
 		"pin_to_sibling"		"ItemEffectAnchor"
