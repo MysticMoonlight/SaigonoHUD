@@ -21,4 +21,4 @@ We only upload this project to GitHub, not from GameBanana and HUDS.TF. So pleas
 * [Plank Jr.](https://www.youtube.com/c/PlankJr_) - HUD Style Inspiration
 
 # License
-This project is licensed under GNU GPL v3.
+This project is licensed under GNU LGPL v3.
