@@ -59,7 +59,7 @@
 		"tall"			"12"
 		"visible"		"0"
 		"enabled"		"0"
-		"image"			"../HUD/tournament_panel_tan"
+		"image"			"../HUD/tournament_panel_black"
 
 		"src_corner_height"		"22"			// pixels inside the image
 		"src_corner_width"		"22"

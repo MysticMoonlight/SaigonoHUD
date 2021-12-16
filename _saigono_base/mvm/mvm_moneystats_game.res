@@ -77,7 +77,7 @@
 		"labelText"			"%creditsmissed%"
 		"textAlignment"		"north-east"
 		"xpos"				"75"
-		"ypos"				"27"
+		"ypos"				"27.5"
 		"wide"				"30"
 		"tall"				"12"
 		"fgcolor"			"RedSolid"

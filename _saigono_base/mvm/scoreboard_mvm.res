@@ -22,7 +22,7 @@
 		"labelText"			"%popfile%"
 		"textAlignment"		"west"
 		"xpos"				"c-265"
-		"ypos"				"c-30"
+		"ypos"				"c-24"
 		"wide"				"270"
 		"tall"				"30"
 		"fgcolor"			"TanLight"

@@ -14,7 +14,7 @@
 			// 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56
 		
 		// regular damage
-		"delta_item_font"		"Damage (32)"
+		"delta_item_font"		"Damage (40)"
 		
 		// crit damage
 		"delta_item_font_big"	"Damage (48)"
@@ -33,7 +33,7 @@
 			// FONT OPTIONS :
 			// "Centered ([8-10-12-14-16]) (O)" for Outline
 			// "Centered ([8-10-12-14-16])" for no extras
-		"font"				"Centered (12) (S)"
+		"font"				"Centered (14) (S)"
 		
 		// adjust the position however you like
 		"xpos"				"c-25"

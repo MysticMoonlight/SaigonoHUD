@@ -78,6 +78,29 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+
+
+		"SERIFBOLD_16"
+		{
+			"1"
+			{
+				"name"			"Noto Serif Bold"
+				"tall" 		 	"14"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"SERIFBOLD_12"
+		{
+			"1"
+			{
+				"name"			"Noto Serif Bold"
+				"tall" 		 	"14"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
 		
 		// ROAD RAGE (addon)
 		"ROADRAGE_56"
@@ -915,7 +938,7 @@ Scheme
 			"1"
 			{
 				"name"			"Noto Serif Bold"
-				"tall"			"14"
+				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
 				"antialias" 	"1"
