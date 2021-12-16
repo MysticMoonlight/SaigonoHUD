@@ -104,7 +104,7 @@
 		"wide_minmode"	"200"
 		"tall_minmode"	"100"
 		
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"1"
 		"textAlignment"	"west"
 		"labelText"		"%AmmoInReserve%"
