@@ -70,7 +70,7 @@
 		"font"			"SERIFBOLD_56"
 		"fgcolor"		"Ammo Clip"
 		
-		"xpos"			"r415"
+		"xpos"			"r395"
 		"ypos"			"r140"
 		"zpos"			"5"
 		"wide"			"200"
@@ -79,7 +79,29 @@
 		"xpos_minmode"			"r350"
 		"ypos_minmode"			"r100"
 		
-		"visible"		"1"
+		"visible"		"0"
+		"enabled"		"1"
+		"textAlignment"	"east"
+		"labelText"		"%Ammo%"
+	}
+	
+	"AmmoInClipShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"AmmoInClipShadow"
+		"font"			"SERIFBOLD_56"
+		"fgcolor"		"Ammo Clip"
+		
+		"xpos"			"r395"
+		"ypos"			"r140"
+		"zpos"			"5"
+		"wide"			"200"
+		"tall"			"100"
+		
+		"xpos_minmode"			"r350"
+		"ypos_minmode"			"r100"
+		
+		"visible"		"0"
 		"enabled"		"1"
 		"textAlignment"	"east"
 		"labelText"		"%Ammo%"
@@ -92,7 +114,32 @@
 		"font"			"SERIF_REG_24"
 		"fgcolor"		"Ammo Reserve"
 		
-		"xpos"			"r210"
+		"xpos"			"r190"
+		"ypos"			"r135"
+		"zpos"			"7"
+		"wide"			"200"
+		"tall"			"100"
+		
+				
+		"xpos_minmode"	"r145"
+		"ypos_minmode"	"r95"
+		"wide_minmode"	"200"
+		"tall_minmode"	"100"
+		
+		"visible"		"0"
+		"enabled"		"1"
+		"textAlignment"	"west"
+		"labelText"		"%AmmoInReserve%"
+	}
+	
+	"AmmoInReserveShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"AmmoInReserveShadow"
+		"font"			"SERIF_REG_24"
+		"fgcolor"		"Ammo Reserve"
+		
+		"xpos"			"r190"
 		"ypos"			"r135"
 		"zpos"			"7"
 		"wide"			"200"
@@ -117,21 +164,46 @@
 		"font"			"SERIFBOLD_56"
 		"fgcolor"		"Ammo Clip"
 		
-		"xpos"			"r290"
+		"xpos"			"r395"
 		"ypos"			"r140"
-		"zpos"			"4"
-		"wide"			"150"
+		"zpos"			"5"
+		"wide"			"200"
 		"tall"			"100"
 		
-		"xpos_minmode"	"r220"
-		"ypos_minmode"	"r100"
+		"xpos_minmode"			"r350"
+		"ypos_minmode"			"r100"
 		"wide_minmode"	"150"
 		"tall_minmode"	"100"
 		
 		
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"center"
+		"textAlignment"	"east"
+		"labelText"		"%Ammo%"
+	}
+	
+	"AmmoNoClipShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"AmmoNoClip"
+		"font"			"SERIFBOLD_56"
+		"fgcolor"		"Ammo Clip"
+		
+		"xpos"			"r395"
+		"ypos"			"r140"
+		"zpos"			"5"
+		"wide"			"200"
+		"tall"			"100"
+		
+		"xpos_minmode"			"r350"
+		"ypos_minmode"			"r100"
+		"wide_minmode"	"150"
+		"tall_minmode"	"100"
+		
+		
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"east"
 		"labelText"		"%Ammo%"
 	}
 }
