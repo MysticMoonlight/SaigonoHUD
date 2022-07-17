@@ -1,3 +1,6 @@
+# Discontinued
+We are now discontinuing this project, due to lack of interests in TF2. Roon is no longer interested in Valve and TF2 so we decided to cancel this project.
+
 ![SaigonoHUD](https://user-images.githubusercontent.com/25527589/146137677-ea2126b6-739b-482e-a658-ef1b974d8aa6.png)
 **SaigonoHUD 1.0.0-dev**
 
